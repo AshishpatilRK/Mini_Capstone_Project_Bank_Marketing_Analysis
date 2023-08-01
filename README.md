@@ -2,7 +2,7 @@
 
 **The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls.**
 
-# Aim
+# Aim of the project
 #### To do exploratory data analysis(EDA) and visualisation of bank marketing dataset.
 #### Also find out which campaign's performance is better than another.(Effectiveness of Campaign) 
 
